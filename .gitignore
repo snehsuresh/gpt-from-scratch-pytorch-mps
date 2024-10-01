@@ -1,2 +1,8 @@
 /README
 *.png
+*.pkl
+._train_split.txt
+._val_split.txt
+._vocab.txt
+train_split.txt
+val_split.txt
